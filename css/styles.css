@@ -2,7 +2,10 @@
 	Margin: 0;
 }
 
-
+body{
+	font-family: roboto;
+	font-weight: 300;
+}
 
 h1{
 	color: white;
@@ -11,6 +14,7 @@ h1{
 	font-size: 18px;
 	padding-left: 20px;
 	padding-top: 10px;
+
 }
 
 ul{
@@ -28,7 +32,16 @@ a{
 	text-decoration: none;
 }
 
+
 a:hover{
+	color: white;
+}
+
+h2, h3, h4, h5{
+	color: #ffffff;
+}
+
+p{
 	color: white;
 }
 
