@@ -20,6 +20,7 @@ h1{
 ul{
 	list-style-type: none;
 	padding: 0;
+	margin: 20px;
 }
 
 li{
@@ -39,10 +40,13 @@ a:hover{
 
 h2, h3, h4, h5{
 	color: #ffffff;
+	font-weight: 300;
+	margin: 20px;
 }
 
 p{
 	color: white;
+	margin: 20px;
 }
 
 #header{
